@@ -1,0 +1,9 @@
+Alogrithm to evaluate diffculty of an integral
+
+Algorithm to categorize integration techniques necessary for solution
+
+Calculator GUI
+
+Add menubar: pen settings (line width, color, etc.), add eraser or redo option
+
+
